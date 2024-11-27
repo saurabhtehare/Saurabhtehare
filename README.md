@@ -23,4 +23,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhtehare&show_icons=true&locale=en" alt="saurabhtehare" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhtehare&" alt="saurabhtehare" /></p>
+<img style="float: left; margin-right: 10;" src="https://github-readme-stats.vercel.app/api?username=saurabhtehare&show_icons=true&locale=en" alt="saurabhtehare" />
+<img style="float: left;" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhtehare&" alt="saurabhtehare" />
+<div style="clear: both;"></div>
+
