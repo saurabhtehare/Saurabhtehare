@@ -23,6 +23,7 @@
 
 
 <p>
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabhtehare&show_icons=true&locale=en" alt="saurabhtehare" />
-  <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhtehare&" alt="saurabhtehare" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabhtehare&show_icons=true&locale=en" alt="saurabhtehare" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhtehare&" alt="saurabhtehare" />
 </p>
+
