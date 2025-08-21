@@ -55,7 +55,7 @@
   </a> 
   <!-- DBT -->
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="50" height="40"/> 
+    <img src="https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png" alt="dbt" width="50" height="40"/> 
   </a> 
   <!-- AWS S3 -->
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> 
