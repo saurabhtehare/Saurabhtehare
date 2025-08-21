@@ -12,7 +12,7 @@
 - 💡 Skilled in **T-SQL, Python, Snowflake, DBT, AWS S3, Power BI, Excel**  
 - 📊 Experienced in building **ETL pipelines, data warehouses, and interactive dashboards**  
 - 👨‍💻 Explore my projects here: [GitHub Repositories](https://github.com/saurabhtehare)  
-- 📄 View my resume: [My Resume](https://drive.google.com/file/d/1jhfQUc7PeQ_2exwjmcKjh8-ZnaWmqFUH/view?usp=sharing)  
+- 📄 View my resume: [My Resume](https://drive.google.com/file/d/1Gi6ktk-fmfE5lN7nX6PiTKGZJD4xwqbq/view?usp=sharing)  
 - 📫 Reach me at: **saurabhtehare12@gmail.com**  
 
 ---
