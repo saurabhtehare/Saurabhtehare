@@ -45,17 +45,13 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="40"/> 
   </a> 
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="50" height="40"/> 
-  </a> 
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="40"/> 
   </a>
   <!-- Snowflake -->
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Snowflake_Logo.svg/1200px-Snowflake_Logo.svg.png" alt="snowflake" width="50" height="40"/> 
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="snowflake" width="50" height="40"/> 
   </a> 
   <!-- DBT -->
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> 
