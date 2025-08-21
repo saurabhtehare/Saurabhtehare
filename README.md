@@ -55,7 +55,7 @@
   </a> 
   <!-- DBT -->
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png" alt="dbt" width="50" height="40"/> 
+    <img src="https://pngate.com/wp-content/uploads/2025/06/dbt-labs-main-horizontal-brand-logo-orange-x-black-text-modern-design-1.png" alt="dbt" width="80" height="40"/> 
   </a> 
   <!-- AWS S3 -->
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> 
